@@ -17,36 +17,31 @@
       "id": 1,
       "title": "Товар 1",
       "price": 1000,
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg",
-      "isInBasket": false
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg"
     },
     {
       "id": 2,
       "title": "Товар 2",
       "price": 2000,
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg",
-      "isInBasket": false
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg"
     },
     {
       "id": 3,
       "title": "Товар 3",
       "price": 3000,
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg",
-      "isInBasket": false
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg"
     },
     {
       "id": 4,
       "title": "Товар 4",
       "price": 4000,
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg",
-      "isInBasket": false
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg"
     },
     {
       "id": 5,
       "title": "Товар 5",
       "price": 5000,
-      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg",
-      "isInBasket": false
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/46531003/1957060443.jpg"
     }
   ]
 }
