@@ -1,0 +1,1 @@
+import{j as t}from"./index-c723c039.js";import"https://www.gstatic.com/firebasejs/10.5.0/firebase-app.js";import"https://www.gstatic.com/firebasejs/10.5.0/firebase-analytics.js";const i=()=>t.jsx("div",{children:"404"});export{i as default};
